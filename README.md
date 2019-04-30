@@ -1,1 +1,1 @@
-This Dockfile will install ansible on jenkins image
+This Dockerfile will install ansible on jenkins docker image
